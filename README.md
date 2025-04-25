@@ -206,6 +206,7 @@ Current issues with GAS:
 
 <a name="sp"></a>
 ## 2. Sample Project
+## By Mudassir Alam
 A multiplayer third person shooter sample project is included with this documentation aimed at people new to the GameplayAbilitySystem Plugin but not new to Unreal Engine. Users are expected to know C++, Blueprints, UMG, Replication, and other intermediate topics in UE. This project provides an example of how to set up a basic third person shooter multiplayer-ready project with the `AbilitySystemComponent` (`ASC`) on the `PlayerState` class for player/AI controlled heroes and the `ASC` on the `Character` class for AI controlled minions.
 
 The goal is to keep this project simple while showing the GAS basics and demonstrating some commonly requested abilities with well-commented code. Because of its beginner focus, the project does not show advanced topics like [predicting projectiles](#concepts-p-spawn).
